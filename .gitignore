@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+checkers_game_data
+README.html
+
+.idea
+.pytest_cache
+venv
